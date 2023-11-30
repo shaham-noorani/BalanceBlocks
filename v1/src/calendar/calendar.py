@@ -1,5 +1,5 @@
 getCategory = {
-    "1": "Learning",
+    "1": "SEC",
     "2": "Active",
     "3": "Kyleigh",
     "4": "Chill",
