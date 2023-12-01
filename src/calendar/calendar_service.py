@@ -1,19 +1,6 @@
-getCategory = {
-    "1": "Learning",
-    "2": "Active",
-    "3": "Kyleigh",
-    "4": "Chill",
-    "5": "Job Hunting",
-    "6": "AggieInnovators",
-    "7": "School",
-    "9": "SEC",
-    "10": "Friends",
-    "11": "Tigers",
-    "-1": "Other",
-}
-
 import pickle
 import os
+
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from google.auth.transport.requests import Request
@@ -55,3 +42,18 @@ class CalendarService:
         if not CalendarService.instance:
             CalendarService()
         return CalendarService.instance
+
+
+getCategory = {
+    "1": "SEC",
+    "2": "Active",
+    "3": "Kyleigh",
+    "4": "Chill",
+    "5": "Job Hunting",
+    "6": "AggieInnovators",
+    "7": "School",
+    "9": "SEC",
+    "10": "Friends",
+    "11": "Tigers",
+    "-1": "Other",
+}

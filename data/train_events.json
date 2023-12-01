@@ -2,12 +2,6 @@
   "2023-11-26 to 2023-12-03": [
     {
       "title": "Austin",
-      "start": "2023-11-26T09:00:00-06:00",
-      "end": "2023-11-26T13:00:00-06:00",
-      "category": "Kyleigh"
-    },
-    {
-      "title": "Austin",
       "start": "2023-11-26T13:00:00-06:00",
       "end": "2023-11-26T18:00:00-06:00",
       "category": "Kyleigh"
@@ -153,25 +147,19 @@
     {
       "title": "Corporate x VPD",
       "start": "2023-11-30T17:00:00-06:00",
-      "end": "2023-11-30T18:00:00-06:00",
+      "end": "2023-11-30T18:30:00-06:00",
       "category": "SEC"
     },
     {
-      "title": "Bouldering",
-      "start": "2023-11-30T18:15:00-06:00",
-      "end": "2023-11-30T19:15:00-06:00",
-      "category": "Active"
-    },
-    {
       "title": "Drive home",
-      "start": "2023-11-30T19:30:00-06:00",
-      "end": "2023-11-30T20:00:00-06:00",
+      "start": "2023-11-30T18:45:00-06:00",
+      "end": "2023-11-30T19:15:00-06:00",
       "category": "Kyleigh"
     },
     {
-      "title": "Dinner",
-      "start": "2023-11-30T20:00:00-06:00",
-      "end": "2023-11-30T21:00:00-06:00",
+      "title": "Dinner + Chill Time",
+      "start": "2023-11-30T19:15:00-06:00",
+      "end": "2023-11-30T20:55:00-06:00",
       "category": "Kyleigh"
     },
     {
@@ -233,21 +221,21 @@
       "start": "2023-12-02T18:00:00-06:00",
       "end": "2023-12-02T20:00:00-06:00",
       "category": "Friends"
-    }
-  ],
-  "2023-11-19 to 2023-11-26": [
+    },
     {
-      "title": "CF Social",
-      "start": "2023-11-19T13:00:00-06:00",
-      "end": "2023-11-19T15:00:00-06:00",
+      "title": "Pickleball",
+      "start": "2023-12-03T11:00:00-06:00",
+      "end": "2023-12-03T13:00:00-06:00",
       "category": "Friends"
     },
     {
-      "title": "CF Social @ LEGENDS!",
-      "start": "2023-11-19T13:00:00-06:00",
-      "end": "2023-11-19T15:00:00-06:00",
-      "category": "Other"
-    },
+      "title": "Parents Dinner!",
+      "start": "2023-12-03T14:00:00-06:00",
+      "end": "2023-12-03T15:00:00-06:00",
+      "category": "Kyleigh"
+    }
+  ],
+  "2023-11-19 to 2023-11-26": [
     {
       "title": "Tennis/Pickleball! ",
       "start": "2023-11-19T19:00:00-06:00",
@@ -367,15 +355,21 @@
       "start": "2023-11-24T17:30:00-06:00",
       "end": "2023-11-24T19:00:00-06:00",
       "category": "Kyleigh"
+    },
+    {
+      "title": "Austin",
+      "start": "2023-11-26T09:00:00-06:00",
+      "end": "2023-11-26T13:00:00-06:00",
+      "category": "Kyleigh"
+    },
+    {
+      "title": "Austin",
+      "start": "2023-11-26T13:00:00-06:00",
+      "end": "2023-11-26T18:00:00-06:00",
+      "category": "Kyleigh"
     }
   ],
   "2023-11-12 to 2023-11-19": [
-    {
-      "title": "Family",
-      "start": "2023-11-12T09:00:00-06:00",
-      "end": "2023-11-12T12:00:00-06:00",
-      "category": "Friends"
-    },
     {
       "title": "Family",
       "start": "2023-11-12T12:00:00-06:00",
@@ -657,15 +651,21 @@
       "start": "2023-11-18T19:00:00-06:00",
       "end": "2023-11-18T20:25:00-06:00",
       "category": "Kyleigh"
+    },
+    {
+      "title": "CF Social",
+      "start": "2023-11-19T13:00:00-06:00",
+      "end": "2023-11-19T15:00:00-06:00",
+      "category": "Friends"
+    },
+    {
+      "title": "CF Social @ LEGENDS!",
+      "start": "2023-11-19T13:00:00-06:00",
+      "end": "2023-11-19T15:00:00-06:00",
+      "category": "Other"
     }
   ],
   "2023-11-05 to 2023-11-12": [
-    {
-      "title": "Coordinator Orientation",
-      "start": "2023-11-05T08:00:00-06:00",
-      "end": "2023-11-05T13:00:00-06:00",
-      "category": "SEC"
-    },
     {
       "title": "Home",
       "start": "2023-11-05T13:30:00-06:00",
@@ -1019,21 +1019,21 @@
       "start": "2023-11-11T18:30:00-06:00",
       "end": "2023-11-11T21:30:00-06:00",
       "category": "Friends"
+    },
+    {
+      "title": "Family",
+      "start": "2023-11-12T09:00:00-06:00",
+      "end": "2023-11-12T12:00:00-06:00",
+      "category": "Friends"
+    },
+    {
+      "title": "Family",
+      "start": "2023-11-12T12:00:00-06:00",
+      "end": "2023-11-12T17:00:00-06:00",
+      "category": "Friends"
     }
   ],
   "2023-10-29 to 2023-11-05": [
-    {
-      "title": "Inspection + Groceries",
-      "start": "2023-10-29T10:00:00-05:00",
-      "end": "2023-10-29T14:00:00-05:00",
-      "category": "Kyleigh"
-    },
-    {
-      "title": "CF Co-Chairs x VPD: EC/GC Presentation Run-through",
-      "start": "2023-10-29T11:30:00-05:00",
-      "end": "2023-10-29T13:00:00-05:00",
-      "category": "Other"
-    },
     {
       "title": "Anime",
       "start": "2023-10-29T14:15:00-05:00",
@@ -1393,15 +1393,21 @@
       "start": "2023-11-04T22:00:00-05:00",
       "end": "2023-11-04T23:30:00-05:00",
       "category": "Friends"
+    },
+    {
+      "title": "Coordinator Orientation",
+      "start": "2023-11-05T08:00:00-06:00",
+      "end": "2023-11-05T13:00:00-06:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Home",
+      "start": "2023-11-05T13:30:00-06:00",
+      "end": "2023-11-05T16:00:00-06:00",
+      "category": "School"
     }
   ],
   "2023-10-22 to 2023-10-29": [
-    {
-      "title": "Date Day!",
-      "start": "2023-10-22T10:00:00-05:00",
-      "end": "2023-10-22T15:00:00-05:00",
-      "category": "Kyleigh"
-    },
     {
       "title": "Date Day!",
       "start": "2023-10-22T15:00:00-05:00",
@@ -1689,6 +1695,24 @@
       "start": "2023-10-28T16:00:00-05:00",
       "end": "2023-10-28T20:00:00-05:00",
       "category": "Kyleigh"
+    },
+    {
+      "title": "Inspection + Groceries",
+      "start": "2023-10-29T10:00:00-05:00",
+      "end": "2023-10-29T14:00:00-05:00",
+      "category": "Kyleigh"
+    },
+    {
+      "title": "CF Co-Chairs x VPD: EC/GC Presentation Run-through",
+      "start": "2023-10-29T11:30:00-05:00",
+      "end": "2023-10-29T13:00:00-05:00",
+      "category": "Other"
+    },
+    {
+      "title": "Anime",
+      "start": "2023-10-29T14:15:00-05:00",
+      "end": "2023-10-29T16:30:00-05:00",
+      "category": "Kyleigh"
     }
   ],
   "2023-10-15 to 2023-10-22": [
@@ -1696,30 +1720,6 @@
       "title": "Coordinator Interviews + Deliberations",
       "start": "2023-10-15T08:00:00-05:00",
       "end": "2023-10-15T21:00:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "CF Interviews",
-      "start": "2023-10-15T08:00:00-05:00",
-      "end": "2023-10-15T12:00:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "Career Fair Coordinator Interview",
-      "start": "2023-10-15T09:30:00-05:00",
-      "end": "2023-10-15T10:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Sarisha Malla - CF Coordinator Interview",
-      "start": "2023-10-15T11:45:00-05:00",
-      "end": "2023-10-15T12:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "CF Interviews",
-      "start": "2023-10-15T12:00:00-05:00",
-      "end": "2023-10-15T16:00:00-05:00",
       "category": "SEC"
     },
     {
@@ -2081,15 +2081,263 @@
       "start": "2023-10-21T12:00:00-05:00",
       "end": "2023-10-21T17:00:00-05:00",
       "category": "SEC"
+    },
+    {
+      "title": "Date Day!",
+      "start": "2023-10-22T10:00:00-05:00",
+      "end": "2023-10-22T15:00:00-05:00",
+      "category": "Kyleigh"
+    },
+    {
+      "title": "Date Day!",
+      "start": "2023-10-22T15:00:00-05:00",
+      "end": "2023-10-22T21:00:00-05:00",
+      "category": "Kyleigh"
+    }
+  ],
+  "2023-10-08 to 2023-10-15": [
+    {
+      "title": "Journal + Plan Week",
+      "start": "2023-10-08T22:00:00-05:00",
+      "end": "2023-10-08T23:00:00-05:00",
+      "category": "Chill"
+    },
+    {
+      "title": "Abigail / Shaham",
+      "start": "2023-10-10T19:00:00-05:00",
+      "end": "2023-10-10T20:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Lunch!",
+      "start": "2023-10-11T11:30:00-05:00",
+      "end": "2023-10-11T12:30:00-05:00",
+      "category": "Kyleigh"
+    },
+    {
+      "title": "ESO",
+      "start": "2023-10-11T12:45:00-05:00",
+      "end": "2023-10-11T13:45:00-05:00",
+      "category": "Learning"
+    },
+    {
+      "title": "Schuyler / Shaham",
+      "start": "2023-10-11T14:00:00-05:00",
+      "end": "2023-10-11T15:00:00-05:00",
+      "category": "Friends"
+    },
+    {
+      "title": "ESO",
+      "start": "2023-10-11T15:15:00-05:00",
+      "end": "2023-10-11T16:00:00-05:00",
+      "category": "Learning"
+    },
+    {
+      "title": "CLOUD COMPUTING",
+      "start": "2023-10-11T16:10:00-05:00",
+      "end": "2023-10-11T17:25:00-05:00",
+      "category": "School"
+    },
+    {
+      "title": "Industry Night",
+      "start": "2023-10-11T17:30:00-05:00",
+      "end": "2023-10-11T20:30:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "prep",
+      "start": "2023-10-11T20:30:00-05:00",
+      "end": "2023-10-11T21:00:00-05:00",
+      "category": "Job Hunting"
+    },
+    {
+      "title": "G17 Weekly Meeting",
+      "start": "2023-10-11T21:00:00-05:00",
+      "end": "2023-10-11T22:00:00-05:00",
+      "category": "Job Hunting"
+    },
+    {
+      "title": "Home",
+      "start": "2023-10-11T22:30:00-05:00",
+      "end": "2023-10-11T23:30:00-05:00",
+      "category": "Kyleigh"
+    },
+    {
+      "title": "Zachbucks",
+      "start": "2023-10-12T08:30:00-05:00",
+      "end": "2023-10-12T09:30:00-05:00",
+      "category": "Learning"
+    },
+    {
+      "title": "SALES OPS MANUF TECH COMPANIES",
+      "start": "2023-10-12T09:35:00-05:00",
+      "end": "2023-10-12T10:50:00-05:00",
+      "category": "School"
+    },
+    {
+      "title": "ESO",
+      "start": "2023-10-12T11:00:00-05:00",
+      "end": "2023-10-12T12:15:00-05:00",
+      "category": "Learning"
+    },
+    {
+      "title": "TAMU Special Events / SEC Logistics Meeting for SP24 Career Fair",
+      "start": "2023-10-12T12:30:00-05:00",
+      "end": "2023-10-12T13:30:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Matthew x Shaham 1:1's",
+      "start": "2023-10-12T13:30:00-05:00",
+      "end": "2023-10-12T14:30:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "ESO",
+      "start": "2023-10-12T15:00:00-05:00",
+      "end": "2023-10-12T17:00:00-05:00",
+      "category": "Learning"
+    },
+    {
+      "title": "Shaham / Bailey 1:1",
+      "start": "2023-10-12T17:25:00-05:00",
+      "end": "2023-10-12T18:25:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Weekly EB Meeting",
+      "start": "2023-10-12T18:00:00-05:00",
+      "end": "2023-10-12T19:30:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "grab monitor",
+      "start": "2023-10-12T20:30:00-05:00",
+      "end": "2023-10-12T20:45:00-05:00",
+      "category": "Other"
+    },
+    {
+      "title": "Home",
+      "start": "2023-10-12T21:00:00-05:00",
+      "end": "2023-10-12T23:00:00-05:00",
+      "category": "Kyleigh"
+    },
+    {
+      "title": "Bouldering",
+      "start": "2023-10-13T08:00:00-05:00",
+      "end": "2023-10-13T09:00:00-05:00",
+      "category": "Active"
+    },
+    {
+      "title": "ESO",
+      "start": "2023-10-13T10:00:00-05:00",
+      "end": "2023-10-13T11:00:00-05:00",
+      "category": "Learning"
+    },
+    {
+      "title": "Pick-up WEB key",
+      "start": "2023-10-13T11:15:00-05:00",
+      "end": "2023-10-13T11:30:00-05:00",
+      "category": "AggieInnovators"
+    },
+    {
+      "title": "Colton / Shaham (Lunch)",
+      "start": "2023-10-13T11:30:00-05:00",
+      "end": "2023-10-13T12:30:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Home",
+      "start": "2023-10-13T13:00:00-05:00",
+      "end": "2023-10-13T13:45:00-05:00",
+      "category": "School"
+    },
+    {
+      "title": "Legends Meeting",
+      "start": "2023-10-13T14:00:00-05:00",
+      "end": "2023-10-13T15:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Grab A Frames",
+      "start": "2023-10-13T15:15:00-05:00",
+      "end": "2023-10-13T15:30:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Make poster",
+      "start": "2023-10-13T15:30:00-05:00",
+      "end": "2023-10-13T16:15:00-05:00",
+      "category": "Chill"
+    },
+    {
+      "title": "Thrifting!!!",
+      "start": "2023-10-13T17:00:00-05:00",
+      "end": "2023-10-13T18:30:00-05:00",
+      "category": "Friends"
+    },
+    {
+      "title": "Pickleball!",
+      "start": "2023-10-13T19:00:00-05:00",
+      "end": "2023-10-13T21:00:00-05:00",
+      "category": "Active"
+    },
+    {
+      "title": "DI Saturday",
+      "start": "2023-10-14T07:30:00-05:00",
+      "end": "2023-10-14T16:30:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "VPD x CF Co-Chairs Update Meeting",
+      "start": "2023-10-14T15:00:00-05:00",
+      "end": "2023-10-14T15:30:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Sarika Haris Megha",
+      "start": "2023-10-14T21:00:00-05:00",
+      "end": "2023-10-14T22:30:00-05:00",
+      "category": "Friends"
+    },
+    {
+      "title": "Coordinator Interviews + Deliberations",
+      "start": "2023-10-15T08:00:00-05:00",
+      "end": "2023-10-15T21:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "CF Interviews",
+      "start": "2023-10-15T08:00:00-05:00",
+      "end": "2023-10-15T12:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Career Fair Coordinator Interview",
+      "start": "2023-10-15T09:30:00-05:00",
+      "end": "2023-10-15T10:30:00-05:00",
+      "category": "Other"
+    },
+    {
+      "title": "Sarisha Malla - CF Coordinator Interview",
+      "start": "2023-10-15T11:45:00-05:00",
+      "end": "2023-10-15T12:00:00-05:00",
+      "category": "Other"
+    },
+    {
+      "title": "CF Interviews",
+      "start": "2023-10-15T12:00:00-05:00",
+      "end": "2023-10-15T16:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "CF Interviews",
+      "start": "2023-10-15T16:00:00-05:00",
+      "end": "2023-10-15T21:00:00-05:00",
+      "category": "SEC"
     }
   ],
   "2023-10-01 to 2023-10-08": [
-    {
-      "title": "Home",
-      "start": "2023-10-01T08:00:00-05:00",
-      "end": "2023-10-01T14:00:00-05:00",
-      "category": "Friends"
-    },
     {
       "title": "Home",
       "start": "2023-10-01T14:30:00-05:00",
@@ -2448,18 +2696,6 @@
   "2023-09-24 to 2023-10-01": [
     {
       "title": "New Member Interviews",
-      "start": "2023-09-24T07:00:00-05:00",
-      "end": "2023-09-24T12:00:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "New Member Interviews",
-      "start": "2023-09-24T12:00:00-05:00",
-      "end": "2023-09-24T16:00:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "New Member Interviews",
       "start": "2023-09-24T16:00:00-05:00",
       "end": "2023-09-24T21:00:00-05:00",
       "category": "SEC"
@@ -2727,32 +2963,26 @@
       "start": "2023-09-30T18:00:00-05:00",
       "end": "2023-09-30T23:00:00-05:00",
       "category": "Friends"
+    },
+    {
+      "title": "Home",
+      "start": "2023-10-01T08:00:00-05:00",
+      "end": "2023-10-01T14:00:00-05:00",
+      "category": "Friends"
+    },
+    {
+      "title": "Home",
+      "start": "2023-10-01T14:30:00-05:00",
+      "end": "2023-10-01T20:30:00-05:00",
+      "category": "Learning"
     }
   ],
   "2023-09-17 to 2023-09-24": [
-    {
-      "title": "Sleep In",
-      "start": "2023-09-17T09:00:00-05:00",
-      "end": "2023-09-17T11:30:00-05:00",
-      "category": "Chill"
-    },
-    {
-      "title": "shower + clean",
-      "start": "2023-09-17T12:00:00-05:00",
-      "end": "2023-09-17T13:00:00-05:00",
-      "category": "Chill"
-    },
     {
       "title": "Home",
       "start": "2023-09-17T13:30:00-05:00",
       "end": "2023-09-17T16:30:00-05:00",
       "category": "School"
-    },
-    {
-      "title": "grab photo from cvs",
-      "start": "2023-09-17T14:30:00-05:00",
-      "end": "2023-09-17T14:45:00-05:00",
-      "category": "Other"
     },
     {
       "title": "Journal / Plan Week",
@@ -3095,6 +3325,18 @@
       "start": "2023-09-24T07:00:00-05:00",
       "end": "2023-09-24T12:00:00-05:00",
       "category": "SEC"
+    },
+    {
+      "title": "New Member Interviews",
+      "start": "2023-09-24T12:00:00-05:00",
+      "end": "2023-09-24T16:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "New Member Interviews",
+      "start": "2023-09-24T16:00:00-05:00",
+      "end": "2023-09-24T21:00:00-05:00",
+      "category": "SEC"
     }
   ],
   "2023-09-10 to 2023-09-17": [
@@ -3301,15 +3543,33 @@
       "start": "2023-09-16T16:00:00-05:00",
       "end": "2023-09-16T17:00:00-05:00",
       "category": "SEC"
+    },
+    {
+      "title": "Sleep In",
+      "start": "2023-09-17T09:00:00-05:00",
+      "end": "2023-09-17T11:30:00-05:00",
+      "category": "Chill"
+    },
+    {
+      "title": "shower + clean",
+      "start": "2023-09-17T12:00:00-05:00",
+      "end": "2023-09-17T13:00:00-05:00",
+      "category": "Chill"
+    },
+    {
+      "title": "Home",
+      "start": "2023-09-17T13:30:00-05:00",
+      "end": "2023-09-17T16:30:00-05:00",
+      "category": "School"
+    },
+    {
+      "title": "grab photo from cvs",
+      "start": "2023-09-17T14:30:00-05:00",
+      "end": "2023-09-17T14:45:00-05:00",
+      "category": "Other"
     }
   ],
   "2023-08-27 to 2023-09-03": [
-    {
-      "title": "Workday 1",
-      "start": "2023-08-27T09:00:00-05:00",
-      "end": "2023-08-27T14:00:00-05:00",
-      "category": "SEC"
-    },
     {
       "title": "Workday 1",
       "start": "2023-08-27T14:00:00-05:00",
@@ -3615,21 +3875,15 @@
       "start": "2023-09-02T21:00:00-05:00",
       "end": "2023-09-02T23:00:00-05:00",
       "category": "Learning"
+    },
+    {
+      "title": "Workday 2",
+      "start": "2023-09-03T09:00:00-05:00",
+      "end": "2023-09-03T17:00:00-05:00",
+      "category": "SEC"
     }
   ],
   "2023-08-20 to 2023-08-27": [
-    {
-      "title": "Lunch!",
-      "start": "2023-08-20T12:00:00-05:00",
-      "end": "2023-08-20T13:30:00-05:00",
-      "category": "Friends"
-    },
-    {
-      "title": "Harvest",
-      "start": "2023-08-20T13:45:00-05:00",
-      "end": "2023-08-20T14:45:00-05:00",
-      "category": "Learning"
-    },
     {
       "title": "Shaham / Eunsoo",
       "start": "2023-08-20T15:00:00-05:00",
@@ -3899,15 +4153,21 @@
       "start": "2023-08-26T21:30:00-05:00",
       "end": "2023-08-26T23:00:00-05:00",
       "category": "Learning"
+    },
+    {
+      "title": "Workday 1",
+      "start": "2023-08-27T09:00:00-05:00",
+      "end": "2023-08-27T14:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Workday 1",
+      "start": "2023-08-27T14:00:00-05:00",
+      "end": "2023-08-27T17:00:00-05:00",
+      "category": "SEC"
     }
   ],
   "2023-08-06 to 2023-08-13": [
-    {
-      "title": "Mall",
-      "start": "2023-08-06T13:00:00-05:00",
-      "end": "2023-08-06T16:00:00-05:00",
-      "category": "Kyleigh"
-    },
     {
       "title": "Coffee Shop",
       "start": "2023-08-06T17:00:00-05:00",
@@ -4247,21 +4507,15 @@
       "start": "2023-07-01T14:30:00-05:00",
       "end": "2023-07-01T16:30:00-05:00",
       "category": "Kyleigh"
+    },
+    {
+      "title": "SEC Work ",
+      "start": "2023-07-02T08:30:00-05:00",
+      "end": "2023-07-02T10:30:00-05:00",
+      "category": "Learning"
     }
   ],
   "2023-06-18 to 2023-06-25": [
-    {
-      "title": "Company Decisions",
-      "start": "2023-06-18T09:30:00-05:00",
-      "end": "2023-06-18T11:30:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "Home",
-      "start": "2023-06-18T11:45:00-05:00",
-      "end": "2023-06-18T16:00:00-05:00",
-      "category": "Learning"
-    },
     {
       "title": "Chill",
       "start": "2023-06-18T16:15:00-05:00",
@@ -4539,33 +4793,27 @@
       "start": "2023-06-17T12:00:00-05:00",
       "end": "2023-06-17T15:30:00-05:00",
       "category": "Chill"
+    },
+    {
+      "title": "Company Decisions",
+      "start": "2023-06-18T09:30:00-05:00",
+      "end": "2023-06-18T11:30:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Home",
+      "start": "2023-06-18T11:45:00-05:00",
+      "end": "2023-06-18T16:00:00-05:00",
+      "category": "Learning"
+    },
+    {
+      "title": "Chill",
+      "start": "2023-06-18T16:15:00-05:00",
+      "end": "2023-06-18T21:15:00-05:00",
+      "category": "Chill"
     }
   ],
   "2023-06-04 to 2023-06-11": [
-    {
-      "title": "Company Decisions",
-      "start": "2023-06-04T08:30:00-05:00",
-      "end": "2023-06-04T10:30:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "Trail",
-      "start": "2023-06-04T12:15:00-05:00",
-      "end": "2023-06-04T14:00:00-05:00",
-      "category": "Kyleigh"
-    },
-    {
-      "title": "lunch",
-      "start": "2023-06-04T14:00:00-05:00",
-      "end": "2023-06-04T14:30:00-05:00",
-      "category": "Kyleigh"
-    },
-    {
-      "title": "EB Meeting",
-      "start": "2023-06-04T15:00:00-05:00",
-      "end": "2023-06-04T16:00:00-05:00",
-      "category": "SEC"
-    },
     {
       "title": "ProTrip City Proposal",
       "start": "2023-06-04T16:00:00-05:00",
@@ -4715,33 +4963,15 @@
       "start": "2023-06-10T19:30:00-05:00",
       "end": "2023-06-10T23:00:00-05:00",
       "category": "Kyleigh"
+    },
+    {
+      "title": "Schliterbahn",
+      "start": "2023-06-11T08:00:00-05:00",
+      "end": "2023-06-11T22:00:00-05:00",
+      "category": "Kyleigh"
     }
   ],
   "2023-05-28 to 2023-06-04": [
-    {
-      "title": "Company Decisions",
-      "start": "2023-05-28T08:30:00-05:00",
-      "end": "2023-05-28T10:00:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "Company Selection",
-      "start": "2023-05-28T10:00:00-05:00",
-      "end": "2023-05-28T11:00:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "Tennis",
-      "start": "2023-05-28T11:30:00-05:00",
-      "end": "2023-05-28T13:30:00-05:00",
-      "category": "Active"
-    },
-    {
-      "title": "lunch and shower",
-      "start": "2023-05-28T13:45:00-05:00",
-      "end": "2023-05-28T15:15:00-05:00",
-      "category": "Chill"
-    },
     {
       "title": "nap",
       "start": "2023-05-28T15:30:00-05:00",
@@ -4849,21 +5079,39 @@
       "start": "2023-06-03T10:00:00-05:00",
       "end": "2023-06-03T19:00:00-05:00",
       "category": "Friends"
+    },
+    {
+      "title": "Company Decisions",
+      "start": "2023-06-04T08:30:00-05:00",
+      "end": "2023-06-04T10:30:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Trail",
+      "start": "2023-06-04T12:15:00-05:00",
+      "end": "2023-06-04T14:00:00-05:00",
+      "category": "Kyleigh"
+    },
+    {
+      "title": "lunch",
+      "start": "2023-06-04T14:00:00-05:00",
+      "end": "2023-06-04T14:30:00-05:00",
+      "category": "Kyleigh"
+    },
+    {
+      "title": "EB Meeting",
+      "start": "2023-06-04T15:00:00-05:00",
+      "end": "2023-06-04T16:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "ProTrip City Proposal",
+      "start": "2023-06-04T16:00:00-05:00",
+      "end": "2023-06-04T17:00:00-05:00",
+      "category": "SEC"
     }
   ],
   "2023-05-21 to 2023-05-28": [
-    {
-      "title": "Ky house tour + home lunch",
-      "start": "2023-05-21T12:00:00-05:00",
-      "end": "2023-05-21T13:30:00-05:00",
-      "category": "Kyleigh"
-    },
-    {
-      "title": "Grapevine Mills Mall",
-      "start": "2023-05-21T14:00:00-05:00",
-      "end": "2023-05-21T15:30:00-05:00",
-      "category": "Kyleigh"
-    },
     {
       "title": "Pickle ball",
       "start": "2023-05-21T16:00:00-05:00",
@@ -4995,33 +5243,39 @@
       "start": "2023-05-27T20:30:00-05:00",
       "end": "2023-05-27T23:30:00-05:00",
       "category": "Chill"
-    }
-  ],
-  "2023-05-07 to 2023-05-14": [
-    {
-      "title": "Home",
-      "start": "2023-05-07T09:00:00-05:00",
-      "end": "2023-05-07T10:30:00-05:00",
-      "category": "School"
     },
     {
-      "title": "chill",
-      "start": "2023-05-07T10:30:00-05:00",
-      "end": "2023-05-07T11:45:00-05:00",
+      "title": "Company Decisions",
+      "start": "2023-05-28T08:30:00-05:00",
+      "end": "2023-05-28T10:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Company Selection",
+      "start": "2023-05-28T10:00:00-05:00",
+      "end": "2023-05-28T11:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Tennis",
+      "start": "2023-05-28T11:30:00-05:00",
+      "end": "2023-05-28T13:30:00-05:00",
+      "category": "Active"
+    },
+    {
+      "title": "lunch and shower",
+      "start": "2023-05-28T13:45:00-05:00",
+      "end": "2023-05-28T15:15:00-05:00",
       "category": "Chill"
     },
     {
-      "title": "Ping pong",
-      "start": "2023-05-07T12:00:00-05:00",
-      "end": "2023-05-07T13:30:00-05:00",
-      "category": "Friends"
-    },
-    {
-      "title": "Corporate x VPD",
-      "start": "2023-05-07T14:00:00-05:00",
-      "end": "2023-05-07T15:00:00-05:00",
-      "category": "SEC"
-    },
+      "title": "nap",
+      "start": "2023-05-28T15:30:00-05:00",
+      "end": "2023-05-28T17:30:00-05:00",
+      "category": "Chill"
+    }
+  ],
+  "2023-05-07 to 2023-05-14": [
     {
       "title": "Pong!",
       "start": "2023-05-07T15:15:00-05:00",
@@ -5270,36 +5524,6 @@
     }
   ],
   "2023-04-30 to 2023-05-07": [
-    {
-      "title": "Tennis",
-      "start": "2023-04-30T08:00:00-05:00",
-      "end": "2023-04-30T09:30:00-05:00",
-      "category": "Active"
-    },
-    {
-      "title": "Home",
-      "start": "2023-04-30T10:30:00-05:00",
-      "end": "2023-04-30T11:30:00-05:00",
-      "category": "Chill"
-    },
-    {
-      "title": "Pickleball",
-      "start": "2023-04-30T11:35:00-05:00",
-      "end": "2023-04-30T14:00:00-05:00",
-      "category": "Friends"
-    },
-    {
-      "title": "Wife time",
-      "start": "2023-04-30T14:00:00-05:00",
-      "end": "2023-04-30T15:30:00-05:00",
-      "category": "Kyleigh"
-    },
-    {
-      "title": "shower",
-      "start": "2023-04-30T15:45:00-05:00",
-      "end": "2023-04-30T16:15:00-05:00",
-      "category": "Other"
-    },
     {
       "title": "Shaham Sync Up",
       "start": "2023-04-30T16:30:00-05:00",
@@ -5587,15 +5811,39 @@
       "start": "2023-05-06T08:00:00-05:00",
       "end": "2023-05-06T21:00:00-05:00",
       "category": "Kyleigh"
+    },
+    {
+      "title": "Home",
+      "start": "2023-05-07T09:00:00-05:00",
+      "end": "2023-05-07T10:30:00-05:00",
+      "category": "School"
+    },
+    {
+      "title": "chill",
+      "start": "2023-05-07T10:30:00-05:00",
+      "end": "2023-05-07T11:45:00-05:00",
+      "category": "Chill"
+    },
+    {
+      "title": "Ping pong",
+      "start": "2023-05-07T12:00:00-05:00",
+      "end": "2023-05-07T13:30:00-05:00",
+      "category": "Friends"
+    },
+    {
+      "title": "Corporate x VPD",
+      "start": "2023-05-07T14:00:00-05:00",
+      "end": "2023-05-07T15:00:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Pong!",
+      "start": "2023-05-07T15:15:00-05:00",
+      "end": "2023-05-07T16:45:00-05:00",
+      "category": "Friends"
     }
   ],
   "2023-04-23 to 2023-04-30": [
-    {
-      "title": "436 Milestone #3",
-      "start": "2023-04-23T09:00:00-05:00",
-      "end": "2023-04-23T12:45:00-05:00",
-      "category": "School"
-    },
     {
       "title": "Orientation",
       "start": "2023-04-23T13:00:00-05:00",
@@ -5973,6 +6221,36 @@
       "start": "2023-04-29T21:30:00-05:00",
       "end": "2023-04-29T23:00:00-05:00",
       "category": "Learning"
+    },
+    {
+      "title": "Tennis",
+      "start": "2023-04-30T08:00:00-05:00",
+      "end": "2023-04-30T09:30:00-05:00",
+      "category": "Active"
+    },
+    {
+      "title": "Home",
+      "start": "2023-04-30T10:30:00-05:00",
+      "end": "2023-04-30T11:30:00-05:00",
+      "category": "Chill"
+    },
+    {
+      "title": "Pickleball",
+      "start": "2023-04-30T11:35:00-05:00",
+      "end": "2023-04-30T14:00:00-05:00",
+      "category": "Friends"
+    },
+    {
+      "title": "Wife time",
+      "start": "2023-04-30T14:00:00-05:00",
+      "end": "2023-04-30T15:30:00-05:00",
+      "category": "Kyleigh"
+    },
+    {
+      "title": "shower",
+      "start": "2023-04-30T15:45:00-05:00",
+      "end": "2023-04-30T16:15:00-05:00",
+      "category": "Other"
     }
   ],
   "2023-04-16 to 2023-04-23": [
@@ -5980,24 +6258,6 @@
       "title": "EC Interviews",
       "start": "2023-04-16T07:30:00-05:00",
       "end": "2023-04-16T21:00:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "Executive Council Interview - Cole Cieslewicz",
-      "start": "2023-04-16T08:00:00-05:00",
-      "end": "2023-04-16T08:10:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "Executive Council Interview - Megha Subhash",
-      "start": "2023-04-16T10:30:00-05:00",
-      "end": "2023-04-16T10:40:00-05:00",
-      "category": "SEC"
-    },
-    {
-      "title": "Executive Council Interview - Emmanuel Mendoza",
-      "start": "2023-04-16T15:00:00-05:00",
-      "end": "2023-04-16T15:10:00-05:00",
       "category": "SEC"
     },
     {
@@ -6323,26 +6583,26 @@
       "start": "2023-04-22T21:30:00-05:00",
       "end": "2023-04-22T23:30:00-05:00",
       "category": "Kyleigh"
+    },
+    {
+      "title": "436 Milestone #3",
+      "start": "2023-04-23T09:00:00-05:00",
+      "end": "2023-04-23T12:45:00-05:00",
+      "category": "School"
+    },
+    {
+      "title": "Orientation",
+      "start": "2023-04-23T13:00:00-05:00",
+      "end": "2023-04-23T18:00:00-05:00",
+      "category": "SEC"
     }
   ],
   "2023-04-09 to 2023-04-16": [
-    {
-      "title": "Think about life",
-      "start": "2023-04-09T08:00:00-05:00",
-      "end": "2023-04-09T10:00:00-05:00",
-      "category": "Chill"
-    },
     {
       "title": "Home",
       "start": "2023-04-09T11:00:00-05:00",
       "end": "2023-04-09T18:00:00-05:00",
       "category": "Learning"
-    },
-    {
-      "title": "Lunch + Anime Break",
-      "start": "2023-04-09T14:15:00-05:00",
-      "end": "2023-04-09T15:15:00-05:00",
-      "category": "Chill"
     },
     {
       "title": "ENGL 210 Group Meeting",
@@ -6691,6 +6951,24 @@
       "start": "2023-04-16T07:30:00-05:00",
       "end": "2023-04-16T21:00:00-05:00",
       "category": "SEC"
+    },
+    {
+      "title": "Executive Council Interview - Cole Cieslewicz",
+      "start": "2023-04-16T08:00:00-05:00",
+      "end": "2023-04-16T08:10:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Executive Council Interview - Megha Subhash",
+      "start": "2023-04-16T10:30:00-05:00",
+      "end": "2023-04-16T10:40:00-05:00",
+      "category": "SEC"
+    },
+    {
+      "title": "Executive Council Interview - Emmanuel Mendoza",
+      "start": "2023-04-16T15:00:00-05:00",
+      "end": "2023-04-16T15:10:00-05:00",
+      "category": "SEC"
     }
   ],
   "2023-04-02 to 2023-04-09": [
@@ -6699,12 +6977,6 @@
       "start": "2023-04-02T09:15:00-05:00",
       "end": "2023-04-02T16:45:00-05:00",
       "category": "Other"
-    },
-    {
-      "title": "EB Meeting",
-      "start": "2023-04-02T13:00:00-05:00",
-      "end": "2023-04-02T14:00:00-05:00",
-      "category": "SEC"
     },
     {
       "title": "ENGL 210 Group Meeting",
@@ -7005,15 +7277,27 @@
       "start": "2023-04-08T20:00:00-05:00",
       "end": "2023-04-08T23:00:00-05:00",
       "category": "Learning"
+    },
+    {
+      "title": "Think about life",
+      "start": "2023-04-09T08:00:00-05:00",
+      "end": "2023-04-09T10:00:00-05:00",
+      "category": "Chill"
+    },
+    {
+      "title": "Home",
+      "start": "2023-04-09T11:00:00-05:00",
+      "end": "2023-04-09T18:00:00-05:00",
+      "category": "Learning"
+    },
+    {
+      "title": "Lunch + Anime Break",
+      "start": "2023-04-09T14:15:00-05:00",
+      "end": "2023-04-09T15:15:00-05:00",
+      "category": "Chill"
     }
   ],
   "2023-03-26 to 2023-04-02": [
-    {
-      "title": "EB Retreat",
-      "start": "2023-03-26T07:00:00-05:00",
-      "end": "2023-03-26T15:00:00-05:00",
-      "category": "SEC"
-    },
     {
       "title": "ENGL 210 Group Meeting",
       "start": "2023-03-26T17:00:00-05:00",
@@ -7361,15 +7645,21 @@
       "start": "2023-04-01T18:00:00-05:00",
       "end": "2023-04-01T23:00:00-05:00",
       "category": "Learning"
+    },
+    {
+      "title": "Envision",
+      "start": "2023-04-02T09:15:00-05:00",
+      "end": "2023-04-02T16:45:00-05:00",
+      "category": "Other"
+    },
+    {
+      "title": "EB Meeting",
+      "start": "2023-04-02T13:00:00-05:00",
+      "end": "2023-04-02T14:00:00-05:00",
+      "category": "SEC"
     }
   ],
   "2023-03-19 to 2023-03-26": [
-    {
-      "title": "Home",
-      "start": "2023-03-19T12:00:00-05:00",
-      "end": "2023-03-19T16:00:00-05:00",
-      "category": "Learning"
-    },
     {
       "title": "ENGL 210 Group Meeting",
       "start": "2023-03-19T17:00:00-05:00",
@@ -7678,18 +7968,6 @@
     }
   ],
   "2023-03-05 to 2023-03-12": [
-    {
-      "title": "Tennis",
-      "start": "2023-03-05T09:00:00-06:00",
-      "end": "2023-03-05T11:00:00-06:00",
-      "category": "Active"
-    },
-    {
-      "title": "Lunch",
-      "start": "2023-03-05T11:30:00-06:00",
-      "end": "2023-03-05T13:00:00-06:00",
-      "category": "Friends"
-    },
     {
       "title": "Coordinator Interviews",
       "start": "2023-03-05T13:00:00-06:00",
@@ -8001,27 +8279,15 @@
       "start": "2023-03-11T08:00:00-06:00",
       "end": "2023-03-11T16:00:00-06:00",
       "category": "Friends"
+    },
+    {
+      "title": "Petit Jean State Park",
+      "start": "2023-03-12T08:00:00-05:00",
+      "end": "2023-03-12T22:00:00-05:00",
+      "category": "Friends"
     }
   ],
   "2023-02-26 to 2023-03-05": [
-    {
-      "title": "Home",
-      "start": "2023-02-26T09:00:00-06:00",
-      "end": "2023-02-26T11:00:00-06:00",
-      "category": "Learning"
-    },
-    {
-      "title": "Dog park",
-      "start": "2023-02-26T11:00:00-06:00",
-      "end": "2023-02-26T13:00:00-06:00",
-      "category": "Friends"
-    },
-    {
-      "title": "Lunch",
-      "start": "2023-02-26T13:00:00-06:00",
-      "end": "2023-02-26T14:30:00-06:00",
-      "category": "Friends"
-    },
     {
       "title": "Hike",
       "start": "2023-02-26T15:00:00-06:00",
@@ -8327,27 +8593,27 @@
       "start": "2023-03-04T16:00:00-06:00",
       "end": "2023-03-04T20:00:00-06:00",
       "category": "Learning"
-    }
-  ],
-  "2023-02-19 to 2023-02-26": [
-    {
-      "title": "New Member Interview Volunteering",
-      "start": "2023-02-19T08:00:00-06:00",
-      "end": "2023-02-19T09:00:00-06:00",
-      "category": "School"
     },
     {
-      "title": "Wife Time",
-      "start": "2023-02-19T09:30:00-06:00",
-      "end": "2023-02-19T14:30:00-06:00",
+      "title": "Tennis",
+      "start": "2023-03-05T09:00:00-06:00",
+      "end": "2023-03-05T11:00:00-06:00",
+      "category": "Active"
+    },
+    {
+      "title": "Lunch",
+      "start": "2023-03-05T11:30:00-06:00",
+      "end": "2023-03-05T13:00:00-06:00",
       "category": "Friends"
     },
     {
-      "title": "acai bowls",
-      "start": "2023-02-19T13:00:00-06:00",
-      "end": "2023-02-19T13:30:00-06:00",
-      "category": "Other"
-    },
+      "title": "Coordinator Interviews",
+      "start": "2023-03-05T13:00:00-06:00",
+      "end": "2023-03-05T19:30:00-06:00",
+      "category": "SEC"
+    }
+  ],
+  "2023-02-19 to 2023-02-26": [
     {
       "title": "New Member Interview Volunteering",
       "start": "2023-02-19T15:00:00-06:00",
@@ -8689,21 +8955,33 @@
       "start": "2023-02-25T16:30:00-06:00",
       "end": "2023-02-25T17:00:00-06:00",
       "category": "Other"
-    }
-  ],
-  "2023-02-12 to 2023-02-19": [
+    },
     {
-      "title": "Homework",
-      "start": "2023-02-12T11:00:00-06:00",
-      "end": "2023-02-12T12:00:00-06:00",
+      "title": "Home",
+      "start": "2023-02-26T09:00:00-06:00",
+      "end": "2023-02-26T11:00:00-06:00",
       "category": "Learning"
     },
     {
-      "title": "Lunch",
-      "start": "2023-02-12T12:00:00-06:00",
-      "end": "2023-02-12T13:00:00-06:00",
+      "title": "Dog park",
+      "start": "2023-02-26T11:00:00-06:00",
+      "end": "2023-02-26T13:00:00-06:00",
       "category": "Friends"
     },
+    {
+      "title": "Lunch",
+      "start": "2023-02-26T13:00:00-06:00",
+      "end": "2023-02-26T14:30:00-06:00",
+      "category": "Friends"
+    },
+    {
+      "title": "Hike",
+      "start": "2023-02-26T15:00:00-06:00",
+      "end": "2023-02-26T17:00:00-06:00",
+      "category": "Friends"
+    }
+  ],
+  "2023-02-12 to 2023-02-19": [
     {
       "title": "Homework",
       "start": "2023-02-12T13:00:00-06:00",
@@ -8991,6 +9269,30 @@
       "start": "2023-02-18T08:30:00-06:00",
       "end": "2023-02-18T09:30:00-06:00",
       "category": "Active"
+    },
+    {
+      "title": "New Member Interview Volunteering",
+      "start": "2023-02-19T08:00:00-06:00",
+      "end": "2023-02-19T09:00:00-06:00",
+      "category": "School"
+    },
+    {
+      "title": "Wife Time",
+      "start": "2023-02-19T09:30:00-06:00",
+      "end": "2023-02-19T14:30:00-06:00",
+      "category": "Friends"
+    },
+    {
+      "title": "acai bowls",
+      "start": "2023-02-19T13:00:00-06:00",
+      "end": "2023-02-19T13:30:00-06:00",
+      "category": "Other"
+    },
+    {
+      "title": "New Member Interview Volunteering",
+      "start": "2023-02-19T15:00:00-06:00",
+      "end": "2023-02-19T16:00:00-06:00",
+      "category": "School"
     }
   ],
   "2023-02-05 to 2023-02-12": [
@@ -9281,6 +9583,24 @@
       "start": "2023-02-11T18:15:00-06:00",
       "end": "2023-02-11T19:15:00-06:00",
       "category": "Friends"
+    },
+    {
+      "title": "Homework",
+      "start": "2023-02-12T11:00:00-06:00",
+      "end": "2023-02-12T12:00:00-06:00",
+      "category": "Learning"
+    },
+    {
+      "title": "Lunch",
+      "start": "2023-02-12T12:00:00-06:00",
+      "end": "2023-02-12T13:00:00-06:00",
+      "category": "Friends"
+    },
+    {
+      "title": "Homework",
+      "start": "2023-02-12T13:00:00-06:00",
+      "end": "2023-02-12T16:00:00-06:00",
+      "category": "Learning"
     }
   ],
   "2023-01-29 to 2023-02-05": [
@@ -9577,27 +9897,15 @@
       "start": "2023-02-04T15:00:00-06:00",
       "end": "2023-02-04T23:00:00-06:00",
       "category": "Other"
+    },
+    {
+      "title": "Home",
+      "start": "2023-02-05T08:00:00-06:00",
+      "end": "2023-02-05T17:00:00-06:00",
+      "category": "Other"
     }
   ],
   "2022-12-04 to 2022-12-11": [
-    {
-      "title": "Pre-Break Career Fair Meeting",
-      "start": "2022-12-04T09:00:00-06:00",
-      "end": "2022-12-04T11:00:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch!",
-      "start": "2022-12-04T11:15:00-06:00",
-      "end": "2022-12-04T12:15:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "Zach",
-      "start": "2022-12-04T12:15:00-06:00",
-      "end": "2022-12-04T14:45:00-06:00",
-      "category": "SEC"
-    },
     {
       "title": "ProTrip Social",
       "start": "2022-12-04T17:00:00-06:00",
@@ -9789,15 +10097,15 @@
       "start": "2022-12-10T18:00:00-06:00",
       "end": "2022-12-10T19:30:00-06:00",
       "category": "Learning"
+    },
+    {
+      "title": "Boba! \ud83e\uddcb\ud83e\uddcb\ud83e\uddcb",
+      "start": "2022-12-11T14:00:00-06:00",
+      "end": "2022-12-11T15:00:00-06:00",
+      "category": "Learning"
     }
   ],
   "2022-11-27 to 2022-12-04": [
-    {
-      "title": "Groceries",
-      "start": "2022-11-27T09:00:00-06:00",
-      "end": "2022-11-27T10:00:00-06:00",
-      "category": "Learning"
-    },
     {
       "title": "bike from zach -> kyle",
       "start": "2022-11-28T07:30:00-06:00",
@@ -10109,27 +10417,27 @@
       "start": "2022-12-03T19:00:00-06:00",
       "end": "2022-12-03T21:00:00-06:00",
       "category": "Learning"
+    },
+    {
+      "title": "Pre-Break Career Fair Meeting",
+      "start": "2022-12-04T09:00:00-06:00",
+      "end": "2022-12-04T11:00:00-06:00",
+      "category": "Other"
+    },
+    {
+      "title": "Lunch!",
+      "start": "2022-12-04T11:15:00-06:00",
+      "end": "2022-12-04T12:15:00-06:00",
+      "category": "Other"
+    },
+    {
+      "title": "Zach",
+      "start": "2022-12-04T12:15:00-06:00",
+      "end": "2022-12-04T14:45:00-06:00",
+      "category": "SEC"
     }
   ],
   "2022-11-13 to 2022-11-20": [
-    {
-      "title": "Career Fair Orientation",
-      "start": "2022-11-13T09:00:00-06:00",
-      "end": "2022-11-13T13:00:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "Coordinator Orientation - E-Color Presentation",
-      "start": "2022-11-13T10:00:00-06:00",
-      "end": "2022-11-13T10:20:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch buddies \ud83c\udf63\ud83e\udd24\ud83d\udd25",
-      "start": "2022-11-13T13:15:00-06:00",
-      "end": "2022-11-13T14:15:00-06:00",
-      "category": "Other"
-    },
     {
       "title": "Shaham / Anirudh 315 programming",
       "start": "2022-11-13T16:00:00-06:00",
@@ -10372,12 +10680,6 @@
     }
   ],
   "2022-11-06 to 2022-11-13": [
-    {
-      "title": "Anime + Sweet Tea! \ud83d\udc7e",
-      "start": "2022-11-06T12:00:00-06:00",
-      "end": "2022-11-06T15:00:00-06:00",
-      "category": "Other"
-    },
     {
       "title": "Dinner!",
       "start": "2022-11-06T18:00:00-06:00",
@@ -10659,1343 +10961,23 @@
       "start": "2022-11-12T08:00:00-06:00",
       "end": "2022-11-12T18:00:00-06:00",
       "category": "Other"
-    }
-  ],
-  "2022-10-30 to 2022-11-06": [
-    {
-      "title": "Push",
-      "start": "2022-10-31T08:00:00-05:00",
-      "end": "2022-10-31T09:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-31T09:10:00-05:00",
-      "end": "2022-10-31T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-10-31T10:20:00-05:00",
-      "end": "2022-10-31T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Khan Academy Interview",
-      "start": "2022-10-31T11:30:00-05:00",
-      "end": "2022-10-31T12:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch!",
-      "start": "2022-10-31T12:45:00-05:00",
-      "end": "2022-10-31T13:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "CF Update Meeting",
-      "start": "2022-10-31T14:00:00-05:00",
-      "end": "2022-10-31T15:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-31T15:00:00-05:00",
-      "end": "2022-10-31T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Career Fair Work Time",
-      "start": "2022-10-31T16:00:00-05:00",
-      "end": "2022-10-31T18:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Career Fair Work Time",
-      "start": "2022-10-31T16:00:00-05:00",
-      "end": "2022-10-31T19:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Jedi",
-      "start": "2022-10-31T16:30:00-05:00",
-      "end": "2022-10-31T17:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Stefano",
-      "start": "2022-10-31T18:00:00-05:00",
-      "end": "2022-10-31T18:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Sam",
-      "start": "2022-10-31T18:30:00-05:00",
-      "end": "2022-10-31T19:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Ani + Charles + Shaham",
-      "start": "2022-10-31T19:00:00-05:00",
-      "end": "2022-10-31T20:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "GC Meeting",
-      "start": "2022-10-31T20:15:00-05:00",
-      "end": "2022-10-31T21:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Career Fair Social",
-      "start": "2022-10-31T21:30:00-05:00",
-      "end": "2022-10-31T22:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Coffee \u2615\ufe0f",
-      "start": "2022-11-01T10:00:00-05:00",
-      "end": "2022-11-01T11:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-11-01T11:10:00-05:00",
-      "end": "2022-11-01T12:25:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch!",
-      "start": "2022-11-01T12:30:00-05:00",
-      "end": "2022-11-01T13:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Homework!",
-      "start": "2022-11-01T13:15:00-05:00",
-      "end": "2022-11-01T15:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Pull",
-      "start": "2022-11-01T16:00:00-05:00",
-      "end": "2022-11-01T16:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Shaham / Anirudh InventoryService",
-      "start": "2022-11-01T16:45:00-05:00",
-      "end": "2022-11-01T17:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PizzaOS Work Time",
-      "start": "2022-11-01T17:45:00-05:00",
-      "end": "2022-11-01T18:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch Buddies!!!! \ud83e\udd42\ud83c\udf72\ud83e\uded6",
-      "start": "2022-11-01T19:00:00-05:00",
-      "end": "2022-11-01T20:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Co-Chair Update",
-      "start": "2022-11-01T20:30:00-05:00",
-      "end": "2022-11-01T22:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "SEC Fall'22 CF Feedback Meeting with Roland",
-      "start": "2022-11-02T08:00:00-05:00",
-      "end": "2022-11-02T09:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-11-02T09:10:00-05:00",
-      "end": "2022-11-02T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-11-02T10:20:00-05:00",
-      "end": "2022-11-02T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch! ",
-      "start": "2022-11-02T11:15:00-05:00",
-      "end": "2022-11-02T12:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "SEC Symplicity Review Meeting",
-      "start": "2022-11-02T12:30:00-05:00",
-      "end": "2022-11-02T13:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-11-02T15:00:00-05:00",
-      "end": "2022-11-02T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Standup",
-      "start": "2022-11-02T15:50:00-05:00",
-      "end": "2022-11-02T16:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Drive home from MSC!",
-      "start": "2022-11-02T20:00:00-05:00",
-      "end": "2022-11-02T20:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Dinner and Study!",
-      "start": "2022-11-02T20:30:00-05:00",
-      "end": "2022-11-02T23:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Course registration",
-      "start": "2022-11-03T06:15:00-05:00",
-      "end": "2022-11-03T07:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Starbucks! \ud83c\udf6a",
-      "start": "2022-11-03T08:15:00-05:00",
-      "end": "2022-11-03T09:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "SEC Engineering Career Fair Kyle Field Walkthrough",
-      "start": "2022-11-03T09:00:00-05:00",
-      "end": "2022-11-03T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-11-03T11:10:00-05:00",
-      "end": "2022-11-03T12:25:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch",
-      "start": "2022-11-03T12:30:00-05:00",
-      "end": "2022-11-03T13:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Eric / Shaham",
-      "start": "2022-11-03T14:00:00-05:00",
-      "end": "2022-11-03T15:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Marketing & Co-Chairs Meeting",
-      "start": "2022-11-03T15:30:00-05:00",
-      "end": "2022-11-03T16:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "ESO",
-      "start": "2022-11-03T16:00:00-05:00",
-      "end": "2022-11-03T19:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Dinner and Study!",
-      "start": "2022-11-03T19:30:00-05:00",
-      "end": "2022-11-03T23:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "S1 Retro",
-      "start": "2022-11-04T09:10:00-05:00",
-      "end": "2022-11-04T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-11-04T10:20:00-05:00",
-      "end": "2022-11-04T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch!",
-      "start": "2022-11-04T11:30:00-05:00",
-      "end": "2022-11-04T12:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Movie Night! \ud83c\udf7f\ud83d\ude0d\ud83e\udd84",
-      "start": "2022-11-04T20:00:00-05:00",
-      "end": "2022-11-04T21:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Valent Partners A&M Tailgate",
-      "start": "2022-11-05T09:00:00-05:00",
-      "end": "2022-11-05T11:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch! \u2764\ufe0f",
-      "start": "2022-11-05T12:30:00-05:00",
-      "end": "2022-11-05T13:30:00-05:00",
-      "category": "Other"
-    }
-  ],
-  "2022-10-23 to 2022-10-30": [
-    {
-      "title": "TL Mandatory Training",
-      "start": "2022-10-23T14:00:00-05:00",
-      "end": "2022-10-23T16:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Push",
-      "start": "2022-10-24T08:00:00-05:00",
-      "end": "2022-10-24T09:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-24T09:10:00-05:00",
-      "end": "2022-10-24T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-10-24T10:20:00-05:00",
-      "end": "2022-10-24T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "ESO",
-      "start": "2022-10-24T11:10:00-05:00",
-      "end": "2022-10-24T13:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Drew / Shaham",
-      "start": "2022-10-24T13:30:00-05:00",
-      "end": "2022-10-24T14:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "CF Update Meeting",
-      "start": "2022-10-24T14:00:00-05:00",
-      "end": "2022-10-24T15:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-24T15:00:00-05:00",
-      "end": "2022-10-24T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Sprint 1 Kickoff",
-      "start": "2022-10-24T15:50:00-05:00",
-      "end": "2022-10-24T16:20:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Meeting w/ Team C (TAMU Project)",
-      "start": "2022-10-24T16:30:00-05:00",
-      "end": "2022-10-24T17:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Keeley / Shaham",
-      "start": "2022-10-24T16:45:00-05:00",
-      "end": "2022-10-24T17:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "ESO",
-      "start": "2022-10-24T18:00:00-05:00",
-      "end": "2022-10-24T19:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "EC Meeting",
-      "start": "2022-10-24T19:15:00-05:00",
-      "end": "2022-10-24T20:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "GC Meeting",
-      "start": "2022-10-24T20:15:00-05:00",
-      "end": "2022-10-24T21:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Pull",
-      "start": "2022-10-25T09:45:00-05:00",
-      "end": "2022-10-25T10:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-10-25T11:10:00-05:00",
-      "end": "2022-10-25T12:25:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "ESO",
-      "start": "2022-10-25T12:30:00-05:00",
-      "end": "2022-10-25T14:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Sudiksha",
-      "start": "2022-10-25T14:15:00-05:00",
-      "end": "2022-10-25T14:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Matthew",
-      "start": "2022-10-25T14:45:00-05:00",
-      "end": "2022-10-25T15:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "ESO",
-      "start": "2022-10-25T15:15:00-05:00",
-      "end": "2022-10-25T17:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Cole",
-      "start": "2022-10-25T17:30:00-05:00",
-      "end": "2022-10-25T18:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PizzaOS Work Time",
-      "start": "2022-10-25T17:45:00-05:00",
-      "end": "2022-10-25T18:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Piada",
-      "start": "2022-10-26T12:00:00-05:00",
-      "end": "2022-10-26T12:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Maddy",
-      "start": "2022-10-26T13:30:00-05:00",
-      "end": "2022-10-26T14:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Sarika",
-      "start": "2022-10-26T14:00:00-05:00",
-      "end": "2022-10-26T14:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-26T15:00:00-05:00",
-      "end": "2022-10-26T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Keeley",
-      "start": "2022-10-26T16:00:00-05:00",
-      "end": "2022-10-26T16:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Legs",
-      "start": "2022-10-26T16:30:00-05:00",
-      "end": "2022-10-26T17:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Bailey",
-      "start": "2022-10-27T08:00:00-05:00",
-      "end": "2022-10-27T08:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Daniel",
-      "start": "2022-10-27T08:30:00-05:00",
-      "end": "2022-10-27T09:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Josh",
-      "start": "2022-10-27T09:00:00-05:00",
-      "end": "2022-10-27T09:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "CoChair Work ",
-      "start": "2022-10-27T09:30:00-05:00",
-      "end": "2022-10-27T11:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-10-27T11:10:00-05:00",
-      "end": "2022-10-27T12:25:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch! <3",
-      "start": "2022-10-27T12:45:00-05:00",
-      "end": "2022-10-27T13:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Ella",
-      "start": "2022-10-27T14:15:00-05:00",
-      "end": "2022-10-27T14:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2 on 1 with Samantha",
-      "start": "2022-10-27T14:45:00-05:00",
-      "end": "2022-10-27T15:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Push",
-      "start": "2022-10-27T15:30:00-05:00",
-      "end": "2022-10-27T16:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Chill with the bois",
-      "start": "2022-10-27T18:30:00-05:00",
-      "end": "2022-10-27T20:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Standup + Work Time",
-      "start": "2022-10-28T09:10:00-05:00",
-      "end": "2022-10-28T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-10-28T10:20:00-05:00",
-      "end": "2022-10-28T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch!",
-      "start": "2022-10-28T11:30:00-05:00",
-      "end": "2022-10-28T12:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Samantha / Shaham",
-      "start": "2022-10-28T13:00:00-05:00",
-      "end": "2022-10-28T14:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Office Hours",
-      "start": "2022-10-28T15:00:00-05:00",
-      "end": "2022-10-28T17:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Movie Night! \ud83c\udf7f\ud83d\ude0d\ud83e\udd84",
-      "start": "2022-10-28T20:00:00-05:00",
-      "end": "2022-10-28T21:00:00-05:00",
-      "category": "Other"
-    }
-  ],
-  "2022-10-16 to 2022-10-23": [
-    {
-      "title": "Career Fair Coordinator Interviews",
-      "start": "2022-10-16T08:00:00-05:00",
-      "end": "2022-10-16T12:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Career Fair Coordinator Interviews",
-      "start": "2022-10-16T14:30:00-05:00",
-      "end": "2022-10-16T15:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-17T09:10:00-05:00",
-      "end": "2022-10-17T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-10-17T10:20:00-05:00",
-      "end": "2022-10-17T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "SEC Symplicity Review Meeting",
-      "start": "2022-10-17T12:30:00-05:00",
-      "end": "2022-10-17T13:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "CF Update Meeting",
-      "start": "2022-10-17T13:15:00-05:00",
-      "end": "2022-10-17T14:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-17T15:00:00-05:00",
-      "end": "2022-10-17T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "GC Meeting",
-      "start": "2022-10-17T20:15:00-05:00",
-      "end": "2022-10-17T21:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "3RD YEAR SEMINAR",
-      "start": "2022-10-18T09:35:00-05:00",
-      "end": "2022-10-18T10:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-10-18T11:10:00-05:00",
-      "end": "2022-10-18T12:25:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch! ",
-      "start": "2022-10-18T14:15:00-05:00",
-      "end": "2022-10-18T15:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2ND YEAR SEMINAR",
-      "start": "2022-10-18T14:20:00-05:00",
-      "end": "2022-10-18T15:35:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "INTRO TO COMPUTER SYSTEM",
-      "start": "2022-10-18T15:55:00-05:00",
-      "end": "2022-10-18T16:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "315 Group Work",
-      "start": "2022-10-18T16:00:00-05:00",
-      "end": "2022-10-18T18:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Co-Chair Update ",
-      "start": "2022-10-18T19:00:00-05:00",
-      "end": "2022-10-18T20:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-19T09:10:00-05:00",
-      "end": "2022-10-19T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Piada",
-      "start": "2022-10-19T12:00:00-05:00",
-      "end": "2022-10-19T12:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-19T15:00:00-05:00",
-      "end": "2022-10-19T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "SEC Spring 2023 Engineering Career Fair Flywire",
-      "start": "2022-10-20T10:00:00-05:00",
-      "end": "2022-10-20T10:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Khan Academy Interview",
-      "start": "2022-10-20T13:00:00-05:00",
-      "end": "2022-10-20T13:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Jakob / Shaham",
-      "start": "2022-10-20T14:00:00-05:00",
-      "end": "2022-10-20T14:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Lunch!!",
-      "start": "2022-10-20T14:30:00-05:00",
-      "end": "2022-10-20T15:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "INTRO TO COMPUTER SYSTEM",
-      "start": "2022-10-20T15:55:00-05:00",
-      "end": "2022-10-20T16:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "315 Planning P4",
-      "start": "2022-10-20T17:00:00-05:00",
-      "end": "2022-10-20T18:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-10-21T10:20:00-05:00",
-      "end": "2022-10-21T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Daniel / Shaham",
-      "start": "2022-10-21T13:30:00-05:00",
-      "end": "2022-10-21T14:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Office Hours",
-      "start": "2022-10-21T15:00:00-05:00",
-      "end": "2022-10-21T17:00:00-05:00",
-      "category": "Other"
-    }
-  ],
-  "2022-10-02 to 2022-10-09": [
-    {
-      "title": "315 Group Work",
-      "start": "2022-10-02T16:00:00-05:00",
-      "end": "2022-10-02T17:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Bryton / Shaham",
-      "start": "2022-10-03T07:00:00-05:00",
-      "end": "2022-10-03T07:35:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-03T09:10:00-05:00",
-      "end": "2022-10-03T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-10-03T10:20:00-05:00",
-      "end": "2022-10-03T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Jessica / Team C",
-      "start": "2022-10-03T11:30:00-05:00",
-      "end": "2022-10-03T12:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "SEC Symplicity Review Meeting",
-      "start": "2022-10-03T12:30:00-05:00",
-      "end": "2022-10-03T14:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "CF Update Meeting",
-      "start": "2022-10-03T14:00:00-05:00",
-      "end": "2022-10-03T15:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-03T15:00:00-05:00",
-      "end": "2022-10-03T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "EC Meeting",
-      "start": "2022-10-03T19:00:00-05:00",
-      "end": "2022-10-03T20:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "GC Meeting",
-      "start": "2022-10-03T20:15:00-05:00",
-      "end": "2022-10-03T21:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Mini EC Retreat For Shaham",
-      "start": "2022-10-03T21:15:00-05:00",
-      "end": "2022-10-03T21:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "3RD YEAR SEMINAR",
-      "start": "2022-10-04T09:35:00-05:00",
-      "end": "2022-10-04T10:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Interview w/ Sally and Team C - Aggie Avionics Project",
-      "start": "2022-10-04T16:00:00-05:00",
-      "end": "2022-10-04T16:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Co-Chair Update",
-      "start": "2022-10-04T20:00:00-05:00",
-      "end": "2022-10-04T21:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Piada",
-      "start": "2022-10-05T12:00:00-05:00",
-      "end": "2022-10-05T12:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-10-05T15:00:00-05:00",
-      "end": "2022-10-05T15:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "EB x CF Feedback Meeting",
-      "start": "2022-10-06T08:00:00-05:00",
-      "end": "2022-10-06T09:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-10-06T11:10:00-05:00",
-      "end": "2022-10-06T12:25:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Career Fair Coordinator Zachbucks, Shaham Matthew",
-      "start": "2022-10-06T14:10:00-05:00",
-      "end": "2022-10-06T15:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "INTRO TO COMPUTER SYSTEM",
-      "start": "2022-10-06T15:55:00-05:00",
-      "end": "2022-10-06T16:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-10-07T10:20:00-05:00",
-      "end": "2022-10-07T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Office Hours",
-      "start": "2022-10-07T15:00:00-05:00",
-      "end": "2022-10-07T17:00:00-05:00",
-      "category": "Other"
-    }
-  ],
-  "2022-09-18 to 2022-09-25": [
-    {
-      "title": "Boba \ud83e\uddcb",
-      "start": "2022-09-18T18:00:00-05:00",
-      "end": "2022-09-18T19:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-09-19T09:10:00-05:00",
-      "end": "2022-09-19T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-09-19T10:20:00-05:00",
-      "end": "2022-09-19T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-09-19T15:00:00-05:00",
-      "end": "2022-09-19T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "GC Meeting",
-      "start": "2022-09-19T20:15:00-05:00",
-      "end": "2022-09-19T21:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "CF' 22 Shaham Feedback ",
-      "start": "2022-09-19T21:30:00-05:00",
-      "end": "2022-09-19T21:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "3RD YEAR SEMINAR",
-      "start": "2022-09-20T09:35:00-05:00",
-      "end": "2022-09-20T10:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-09-20T11:10:00-05:00",
-      "end": "2022-09-20T12:25:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Coffee Hangout ",
-      "start": "2022-09-21T08:00:00-05:00",
-      "end": "2022-09-21T09:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-09-21T09:10:00-05:00",
-      "end": "2022-09-21T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-09-21T10:20:00-05:00",
-      "end": "2022-09-21T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-09-21T15:00:00-05:00",
-      "end": "2022-09-21T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-09-22T11:10:00-05:00",
-      "end": "2022-09-22T12:25:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Chris / Shaham",
-      "start": "2022-09-22T13:00:00-05:00",
-      "end": "2022-09-22T13:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "INTRO TO COMPUTER SYSTEM",
-      "start": "2022-09-22T15:55:00-05:00",
-      "end": "2022-09-22T16:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "315 Project Time",
-      "start": "2022-09-23T09:10:00-05:00",
-      "end": "2022-09-23T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-09-23T10:20:00-05:00",
-      "end": "2022-09-23T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Career Fair Chair Transition",
-      "start": "2022-09-24T09:00:00-05:00",
-      "end": "2022-09-24T13:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "SA-1",
-      "start": "2022-09-24T15:00:00-05:00",
-      "end": "2022-09-24T16:00:00-05:00",
-      "category": "Other"
-    }
-  ],
-  "2022-09-11 to 2022-09-18": [
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-09-12T09:10:00-05:00",
-      "end": "2022-09-12T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-09-12T10:20:00-05:00",
-      "end": "2022-09-12T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-09-12T15:00:00-05:00",
-      "end": "2022-09-12T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "EJ Kim | EH-CSCE Honors Required Meeting (Shaham Noorani)",
-      "start": "2022-09-12T16:00:00-05:00",
-      "end": "2022-09-12T16:15:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "3RD YEAR SEMINAR",
-      "start": "2022-09-13T09:35:00-05:00",
-      "end": "2022-09-13T10:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-09-13T11:10:00-05:00",
-      "end": "2022-09-13T12:25:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-09-14T09:10:00-05:00",
-      "end": "2022-09-14T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-09-14T10:20:00-05:00",
-      "end": "2022-09-14T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-09-14T15:00:00-05:00",
-      "end": "2022-09-14T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "SEC Informational",
-      "start": "2022-09-14T19:00:00-05:00",
-      "end": "2022-09-14T20:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-09-15T11:10:00-05:00",
-      "end": "2022-09-15T12:25:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2ND YEAR SEMINAR",
-      "start": "2022-09-15T14:20:00-05:00",
-      "end": "2022-09-15T15:35:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "INTRO TO COMPUTER SYSTEM",
-      "start": "2022-09-15T15:55:00-05:00",
-      "end": "2022-09-15T16:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "315 Field Trip",
-      "start": "2022-09-16T09:00:00-05:00",
-      "end": "2022-09-16T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Harvest Coffee",
-      "start": "2022-09-17T10:30:00-05:00",
-      "end": "2022-09-17T11:30:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Rudys",
-      "start": "2022-09-17T12:00:00-05:00",
-      "end": "2022-09-17T13:00:00-05:00",
-      "category": "Other"
-    }
-  ],
-  "2022-08-28 to 2022-09-04": [
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-08-29T09:10:00-05:00",
-      "end": "2022-08-29T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-08-29T10:20:00-05:00",
-      "end": "2022-08-29T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-08-29T15:00:00-05:00",
-      "end": "2022-08-29T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Coffee!!!",
-      "start": "2022-08-29T16:00:00-05:00",
-      "end": "2022-08-29T17:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "3RD YEAR SEMINAR",
-      "start": "2022-08-30T09:35:00-05:00",
-      "end": "2022-08-30T10:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-08-30T11:10:00-05:00",
-      "end": "2022-08-30T11:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "polo",
-      "start": "2022-08-30T14:15:00-05:00",
-      "end": "2022-08-30T15:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2ND YEAR SEMINAR",
-      "start": "2022-08-30T14:20:00-05:00",
-      "end": "2022-08-30T15:35:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "INTRO TO COMPUTER SYSTEM",
-      "start": "2022-08-30T15:55:00-05:00",
-      "end": "2022-08-30T16:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-08-31T09:10:00-05:00",
-      "end": "2022-08-31T10:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-08-31T10:20:00-05:00",
-      "end": "2022-08-31T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PROGRAMMING STUDIO",
-      "start": "2022-08-31T15:00:00-05:00",
-      "end": "2022-08-31T15:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "3RD YEAR SEMINAR",
-      "start": "2022-09-01T09:35:00-05:00",
-      "end": "2022-09-01T10:50:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "TECH COMP MGMT LEAD CORP CULT",
-      "start": "2022-09-01T11:10:00-05:00",
-      "end": "2022-09-01T11:55:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "zach",
-      "start": "2022-09-01T14:15:00-05:00",
-      "end": "2022-09-01T15:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "2ND YEAR SEMINAR",
-      "start": "2022-09-01T14:20:00-05:00",
-      "end": "2022-09-01T15:35:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "INTRO TO COMPUTER SYSTEM",
-      "start": "2022-09-01T15:55:00-05:00",
-      "end": "2022-09-01T16:45:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "PRIN OF STATISTICS I",
-      "start": "2022-09-02T10:20:00-05:00",
-      "end": "2022-09-02T11:10:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "ACC Fest",
-      "start": "2022-09-02T12:30:00-05:00",
-      "end": "2022-09-02T13:00:00-05:00",
-      "category": "Other"
-    },
-    {
-      "title": "Men's Haircut at Modern Barber",
-      "start": "2022-09-02T16:00:00-05:00",
-      "end": "2022-09-02T16:15:00-05:00",
-      "category": "Other"
-    }
-  ],
-  "2022-02-20 to 2022-02-27": [
-    {
-      "title": "PSYC 107",
-      "start": "2022-02-21T09:10:00-06:00",
-      "end": "2022-02-21T10:00:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "MATH 304",
-      "start": "2022-02-21T11:30:00-06:00",
-      "end": "2022-02-21T12:20:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "ENGR 461",
-      "start": "2022-02-22T09:35:00-06:00",
-      "end": "2022-02-22T10:50:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "ENGR 461",
-      "start": "2022-02-22T10:50:00-06:00",
-      "end": "2022-02-22T11:35:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "PSYC 107",
-      "start": "2022-02-23T09:10:00-06:00",
-      "end": "2022-02-23T10:00:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "MATH 304",
-      "start": "2022-02-23T11:30:00-06:00",
-      "end": "2022-02-23T12:20:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "ENGR 461",
-      "start": "2022-02-24T09:35:00-06:00",
-      "end": "2022-02-24T10:50:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "ENGR 461",
-      "start": "2022-02-24T10:50:00-06:00",
-      "end": "2022-02-24T11:35:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "PSYC 107",
-      "start": "2022-02-25T09:10:00-06:00",
-      "end": "2022-02-25T10:00:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "MATH 304",
-      "start": "2022-02-25T11:30:00-06:00",
-      "end": "2022-02-25T12:20:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "CSCE 314 Lab",
-      "start": "2022-02-25T14:00:00-06:00",
-      "end": "2022-02-25T15:45:00-06:00",
-      "category": "Other"
-    }
-  ],
-  "2022-02-06 to 2022-02-13": [
-    {
-      "title": "PSYC 107",
-      "start": "2022-02-07T09:10:00-06:00",
-      "end": "2022-02-07T10:00:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "MATH 304",
-      "start": "2022-02-07T11:30:00-06:00",
-      "end": "2022-02-07T12:20:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "CSCE 312",
-      "start": "2022-02-07T13:50:00-06:00",
-      "end": "2022-02-07T14:40:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "ENGR 461",
-      "start": "2022-02-08T09:35:00-06:00",
-      "end": "2022-02-08T10:50:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "ENGR 461",
-      "start": "2022-02-08T10:50:00-06:00",
-      "end": "2022-02-08T11:35:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "PSYC 107",
-      "start": "2022-02-09T09:10:00-06:00",
-      "end": "2022-02-09T10:00:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "MATH 304",
-      "start": "2022-02-09T11:30:00-06:00",
-      "end": "2022-02-09T12:20:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "CSCE 312",
-      "start": "2022-02-09T13:50:00-06:00",
-      "end": "2022-02-09T14:40:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "ENGR 461",
-      "start": "2022-02-10T09:35:00-06:00",
-      "end": "2022-02-10T10:50:00-06:00",
-      "category": "Other"
-    },
-    {
-      "title": "ENGR 461",
-      "start": "2022-02-10T10:50:00-06:00",
-      "end": "2022-02-10T11:35:00-06:00",
-      "category": "Other"
     },
     {
-      "title": "PSYC 107",
-      "start": "2022-02-11T09:10:00-06:00",
-      "end": "2022-02-11T10:00:00-06:00",
+      "title": "Career Fair Orientation",
+      "start": "2022-11-13T09:00:00-06:00",
+      "end": "2022-11-13T13:00:00-06:00",
       "category": "Other"
     },
     {
-      "title": "Aggie 100 Career Fair",
-      "start": "2022-02-11T10:00:00-06:00",
-      "end": "2022-02-11T15:00:00-06:00",
+      "title": "Coordinator Orientation - E-Color Presentation",
+      "start": "2022-11-13T10:00:00-06:00",
+      "end": "2022-11-13T10:20:00-06:00",
       "category": "Other"
     },
     {
-      "title": "CSCE 314 Lab",
-      "start": "2022-02-11T16:00:00-06:00",
-      "end": "2022-02-11T17:45:00-06:00",
+      "title": "Lunch buddies \ud83c\udf63\ud83e\udd24\ud83d\udd25",
+      "start": "2022-11-13T13:15:00-06:00",
+      "end": "2022-11-13T14:15:00-06:00",
       "category": "Other"
     }
   ]

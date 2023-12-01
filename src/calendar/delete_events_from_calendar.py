@@ -1,4 +1,4 @@
-from src.calendar.calendar import CalendarService
+from calendar_service import CalendarService
 
 
 def delete_events_from_calendar(event_ids):

@@ -1,6 +1,6 @@
 import datetime
 
-from src.calendar.calendar import CalendarService, getCategory
+from calendar_service import CalendarService, getCategory
 
 
 # Function to fetch events
@@ -42,3 +42,9 @@ def fetch_events(start_date):
         )
 
     return events
+
+
+start_date = datetime.datetime(2023, 12, 3).isoformat() + "Z"
+upcoming_events = fetch_events(start_date)
+
+print(upcoming_events)

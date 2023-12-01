@@ -3,9 +3,11 @@ import datetime
 
 def get_time_left_in_each_category(events, time_breakdowns):
     time_left_in_each_category = {}
+
     for time_breakdown in time_breakdowns:
         category = time_breakdown["Category"]
         time_left_in_each_category[category] = float(time_breakdown["Hours"])
+
     time_left_in_each_category["Other"] = 5
 
     for event in events:
